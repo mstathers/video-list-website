@@ -5,4 +5,4 @@ Please note that there are options at the beginning of the file to set your page
 I created this script because I wanted a very easy way to stream videos from my file server to my Android tablet. I recommend the VLC Android app, but this also works decently well with the streaming features of most browsers. Of course, it works equally as well for streaming to regular computers (again, my preferred media player is VLC)
 
 Screenshot:
-[screenshot.png]
+![Screenshot](https://raw.githubusercontent.com/mstathers/video-list-website/master/screenshot.png)
